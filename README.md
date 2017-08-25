@@ -27,8 +27,6 @@ The following is bonus/optional:
 ## Video Walkthroughs
 
 Here's are walkthroughs of implemented user stories: 
-<img src='http://i.imgur.com/9FeTAsf.gif' width='' alt='Video Walkthrough' />
-
 <img src='http://i.imgur.com/zdEKPBt.gif' width='' alt='Video Walkthrough' /> 
 <img src='http://i.imgur.com/KuXvzNE.gif' width='' alt='Video Walkthrough' /> 
 <img src='http://i.imgur.com/fZVh4DN.gif' width='' alt='Video Walkthrough' /> 
