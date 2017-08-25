@@ -27,9 +27,9 @@ The following is bonus/optional:
 ## Video Walkthroughs
 
 Here's are walkthroughs of implemented user stories: 
-&lt;img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
-&lt;img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
-&lt;img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+&lt;img src='http://i.imgur.com/zdEKPBt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+&lt;img src='http://i.imgur.com/KuXvzNE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+&lt;img src='http://i.imgur.com/fZVh4DN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  ## Notes  Describe any challenges encountered while building the app.  
